@@ -1,7 +1,14 @@
+# Dépendances
 node_modules/
+
+# Fichiers générés
 dist/
 *.log
+
+# Environnements et secrets
 .env
 .env.local
+
+# Système / IDE
 .DS_Store
 .vscode/
